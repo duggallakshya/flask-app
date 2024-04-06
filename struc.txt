@@ -1,0 +1,16 @@
+flask_application/
+│
+├── app/
+│   ├── __init__.py
+│   ├── post_service.py
+│   ├── product_service.py
+│   └── user_service.py
+│
+├── requirements.txt
+│
+├── run.py
+│
+├── posts.json
+├── products.json
+├── users.json
+└── Dockerfile
